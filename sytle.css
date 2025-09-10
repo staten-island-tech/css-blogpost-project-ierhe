@@ -1,0 +1,8 @@
+body {
+  background-image: url();
+}
+
+h1 {
+  /* sets background color around the h1 text */
+  background-color: rgb(255, 5, 6);
+}

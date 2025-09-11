@@ -1,8 +1,24 @@
-body {
+.body {
   background-image: url();
 }
 
-h1 {
-  /* sets background color around the h1 text */
-  background-color: rgb(255, 5, 6);
+.head {
+  background-color: rgb(156, 255, 156);
+  text-align: center;
+}
+
+.smoltext {
+  height: 8vh;
+  border: 5px solid rgb(40, 252, 33);
+  text-align: center;
+}
+
+.tapir1 {
+  background-image: url(https://imgs.mongabay.com/wp-content/uploads/sites/20/2019/01/14064748/animals_00884-762x512.jpg);
+  text-align: center;
+  border: 8px solid rgb(40, 252, 33);
+}
+
+body {
+  background-image: url(https://foodtank.com/wp-content/uploads/2015/09/agroforestry-FAO.jpg);
 }

@@ -10,6 +10,7 @@ body {
   font-family: Tahoma, Helvetica, Arial, sans-serif;
 }
 
-#twospecific {
-  color: aquamarine;
+#titlespecific {
+  color:black;
+  width: 1500px;
 }

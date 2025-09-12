@@ -9,3 +9,7 @@ body {
   text-align: center;
   font-family: Tahoma, Helvetica, Arial, sans-serif;
 }
+
+#twospecific {
+  color: aquamarine;
+}

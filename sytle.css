@@ -9,3 +9,8 @@ body {
   text-align: center;
   font-family: Tahoma, Helvetica, Arial, sans-serif;
 }
+
+#titlespecific {
+  color:black;
+  width: 1500px;
+}
